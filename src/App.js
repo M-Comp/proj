@@ -40,7 +40,7 @@ function App(props){
                 <button
                     onClick={(event) => setTheme(theme === "dark" ? "light" : "dark") }
                 >
-                    {`tema ${theme === "dark" ? "claro" : "escuro"}`}
+                    {`tema ${theme === "dark" ? "🌞" : "🌙"}`}
                 </button>
                 <nav style={style} className="top-nav w-50 min-w-20rem">
                     <ListaGenerica
