@@ -7,11 +7,15 @@
 
 # testing
 /coverage
+/.firebase
 
 # production
 /build
 
 # misc
+/.ionide
+*/exemplos
+
 .DS_Store
 .env.local
 .env.development.local

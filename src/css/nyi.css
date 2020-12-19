@@ -1,0 +1,6 @@
+.nyi-banner{
+    height: 40rem;
+    background-image: linear-gradient(0deg, #250e008c, #0e001a85), url("../img/construction-site-silhouettes.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}

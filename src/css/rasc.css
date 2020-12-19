@@ -1,0 +1,19 @@
+.bg-lampada{
+    background-image: url("");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+.bg-lampada:hover{
+    background-image: url("outra");
+}
+
+.fundo-azul{
+    background-color: navy;
+    height: 10rem;
+    padding: 1rem;
+
+    display: flex;
+    flex-direction: row;
+}
